@@ -19,4 +19,4 @@ python manage.py runserver
 ```
 ## development
 ### part 1
-The project has benn created and polls app started. First view was added and routing was set up.
+The project was created and polls app started. First view was added and routing was set up.
