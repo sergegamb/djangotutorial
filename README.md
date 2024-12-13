@@ -13,10 +13,16 @@ python -m venv venv
 ```
 pip install -r requirements.txt
 ```
-4. Run development server
+4. Apply migrations
+```
+python manage.py migrate
+```
+5. Run development server
 ```
 python manage.py runserver
 ```
 ## development
 ### part 1
 The project was created and polls app started. First view was added and routing was set up.
+### part 2
+In part two we were working with database and migrations. We created our first model and played with django database api in a shell mode. Also we registered our model to admin part of the site
