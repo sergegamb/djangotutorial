@@ -28,3 +28,5 @@ The project was created and polls app started. First view was added and routing 
 In part two we were working with database and migrations. We created our first model and played with django database api in a shell mode. Also we registered our model to admin part of the site
 ### part 3
 In that part we were working with Django Template system and learn about rendring and some shortcuts
+### part 4
+In that part we create simple form to vote and switched our views to generic
