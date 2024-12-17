@@ -30,3 +30,5 @@ In part two we were working with database and migrations. We created our first m
 In that part we were working with Django Template system and learn about rendring and some shortcuts
 ### part 4
 In that part we create simple form to vote and switched our views to generic
+### part 5
+Part five introduce a test suite in Django
