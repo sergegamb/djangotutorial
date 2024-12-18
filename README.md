@@ -32,3 +32,5 @@ In that part we were working with Django Template system and learn about rendrin
 In that part we create simple form to vote and switched our views to generic
 ### part 5
 Part five introduce a test suite in Django
+### part 6
+In that part we add simple example of using static files
