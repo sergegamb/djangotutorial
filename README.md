@@ -34,3 +34,5 @@ In that part we create simple form to vote and switched our views to generic
 Part five introduce a test suite in Django
 ### part 6
 In that part we add simple example of using static files
+### part 7
+In part 7 we discussed available apportunities to customize and modify the look of our default admin system
