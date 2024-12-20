@@ -36,3 +36,5 @@ Part five introduce a test suite in Django
 In that part we add simple example of using static files
 ### part 7
 In part 7 we discussed available apportunities to customize and modify the look of our default admin system
+### part 8
+In that part we add third-party package debug_toolbar
